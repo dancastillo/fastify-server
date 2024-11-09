@@ -1,0 +1,5 @@
+.github
+jest.config.ts
+node_modules
+dist
+models
